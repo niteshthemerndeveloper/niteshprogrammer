@@ -1,4 +1,4 @@
-### Hi there, I'm Nitesh 👋
+## **Hey there, I'm Nitesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">**
 
 <!--
 **niteshprogrammer/niteshprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
